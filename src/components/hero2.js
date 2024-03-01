@@ -46,7 +46,7 @@ export const Header = () => {
           <div className="relative px-4 py-16 mx-auto overflow-hidden sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
             <div className={`flex flex-col items-center justify-between xl:flex-row ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-20 opacity-0'} transition-all duration-1000`}>
               <div className=" mb-12 xl:mb-0 xl:pr-16 ">
-                <p className="max-w-xl mb-4 text-base text-gray-200 md:text-lg">AVERAGE STUDENT TO SUCCESSFUL STUDENT<br/>Indias First Workshop That Teaches The 6 Step Framework To</p>
+                <p className="max-w-xl mb-4 text-base text-gray-200 md:text-lg">Build Your Child's Future In 90 Days !!!<br/>Indias First Workshop That Teaches The 6 Step Framework To</p>
                 <h2 className="max-w-lg mb-6 font-sans text-5xl lg:text-[70px] font-bold tracking-tight text-white sm:text-4xl sm:leading-none">
                 Transform Your Childs Future
                 </h2>
@@ -54,8 +54,8 @@ export const Header = () => {
                 Into A Outstanding One Where They Evolve As The Leaders For The Future.
                 </p>
                 <div className="flex flex-row gap-10 pt-6">
-                <div className='px-4 py-2 bg-blue-200 shadow-xl font-semibold rounded-lg md:text-xl lg:text-xl'>18th March 2024</div>
-                <div className='px-4 py-2 bg-blue-200 shadow-xl font-semibold rounded-lg md:text-xl lg:text-xl'>12:00 AM</div>
+                <div className='px-4 py-2 bg-blue-200 shadow-xl font-semibold rounded-lg md:text-xl lg:text-xl'>04th March 2024</div>
+                <div className='px-4 py-2 bg-blue-200 shadow-xl font-semibold rounded-lg md:text-xl lg:text-xl'>06:30 PM</div>
                 </div>
               </div>
               <div className="lg:w-full md:w-full md:h-auto lg:h-auto overflow-hidden max-w-xl xl:px-8 xl:w-5/12">
