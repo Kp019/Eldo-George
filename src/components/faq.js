@@ -7,7 +7,7 @@ function Faq() {
   const questions = [
     {
       title: 'What is the date and time of the workshop?',
-      answer: 'My name is Gemini. I am a large language model from Google AI.',
+      answer: '04-03-2024, 06:30PM IST',
     },
     {
       title: 'Where is the workshop?',

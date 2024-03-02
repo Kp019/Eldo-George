@@ -1,5 +1,6 @@
 {
-  "name": "test",
+  "name": "lp1.eldogeorge",
+  "homepage": "http://lp1.eldogeorge.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
