@@ -1,9 +1,10 @@
 import React from 'react';
+import hindu from '../Assets/218-2186575_thehindu-logo-logo-of-the-hindu-newspaper-hd.png';
 
 function Featuredin() {
     const cardDetails = {
       0: {
-          imgUrl: "https://www.pngitem.com/pimgs/m/218-2186575_thehindu-logo-logo-of-the-hindu-newspaper-hd.png",
+          imgUrl: hindu,
           title: "Text 1"
       },
       1: {
