@@ -6,7 +6,7 @@ function Register() {
     
     const [timeRemaining, setTimeRemaining] = useState(null);
     
-    const eventDate = new Date('2024-03-04T18:30:00');
+    const eventDate = new Date('2024-03-06T18:30:00');
     
     useEffect(() => {
         const calculateTimeRemaining = () => {

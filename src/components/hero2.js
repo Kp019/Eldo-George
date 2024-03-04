@@ -54,7 +54,7 @@ export const Header = () => {
                 Into A Outstanding One Where They Evolve As The Leaders For The Future.
                 </p>
                 <div className="flex flex-row gap-10 pt-6">
-                <div className='px-4 py-2 bg-blue-200 shadow-xl font-semibold rounded-lg md:text-xl lg:text-xl'>04th March 2024</div>
+                <div className='px-4 py-2 bg-blue-200 shadow-xl font-semibold rounded-lg md:text-xl lg:text-xl'>06th March 2024</div>
                 <div className='px-4 py-2 bg-blue-200 shadow-xl font-semibold rounded-lg md:text-xl lg:text-xl'>06:30 PM</div>
                 </div>
               </div>
